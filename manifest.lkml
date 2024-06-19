@@ -1,10 +1,10 @@
 constant: CONNECTION_NAME {
-  value: "sap-cortex-demo"
+  value: "sap-cortex-acrmx"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "zmx-fudlv-p"
+  value: "aceromex-sap-pro"
   export: override_required
 }
 
@@ -14,7 +14,7 @@ constant: REPORTING_DATASET {
 }
 
 constant: CLIENT {
-  value: "400"
+  value: "200"
   export: override_required
 }
 #
