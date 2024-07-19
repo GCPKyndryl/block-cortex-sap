@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "sap-cortex-acrmx"
+  value: "sap-cortex-klassco"
   export: override_required
 }
 
